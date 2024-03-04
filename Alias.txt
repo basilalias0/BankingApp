@@ -1,0 +1,1 @@
+{"name": "Alias", "PIN": 1233, "total_amount": 17530, "transactions": ["Alias sir, You deposited 8965 amount of money and the balance is 8965 on 02 January 2024 07:17:08 PM", "Alias sir, You deposited 8565 amount of money and the balance is 17530 on 02 January 2024 07:17:16 PM"]}
